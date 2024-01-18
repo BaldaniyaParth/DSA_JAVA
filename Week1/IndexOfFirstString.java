@@ -1,3 +1,5 @@
+package Week1;
+
 public class IndexOfFirstString {
 
     public static void main(String[] args) {
