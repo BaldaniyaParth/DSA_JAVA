@@ -1,3 +1,5 @@
+package Practice;
+
 import java.util.Arrays;
 public class MaxCoins {
     public static void main(String[] args) {

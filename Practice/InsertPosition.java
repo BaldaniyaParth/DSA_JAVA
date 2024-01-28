@@ -1,3 +1,5 @@
+package Practice;
+
 public class InsertPosition {
 
     public static void main(String[] args) {
