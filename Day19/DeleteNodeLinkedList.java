@@ -32,6 +32,7 @@ public class DeleteNodeLinkedList {
             current = current.next;
         }
     }
+
 }
 
 class ListNode {
