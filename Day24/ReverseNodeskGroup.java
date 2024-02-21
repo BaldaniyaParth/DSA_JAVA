@@ -1,4 +1,4 @@
-package day24;
+package Day24;
 
 public class ReverseNodeskGroup {
 
